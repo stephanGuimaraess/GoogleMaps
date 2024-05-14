@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="foto">foto</string>
+    <string name="stephan_guimaraes">Stephan Guimaraes</string>
+    <string name="stephan_guimaraess_gmail_com">stephan.guimaraess@gmail.com</string>
+    <string name="_31">31</string>
+    <string name="idade">Idade :</string>
+    <string name="preferences">Preferences</string>
+    <string name="local_proximo">Local Proximo</string>
+    <string name="locais_proximos">Locais proximos</string>
+    <string name="voltar">voltar</string>
+</resources>
